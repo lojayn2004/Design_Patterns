@@ -1,0 +1,15 @@
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\bin\Debug\net6.0\observer_and_strategy.exe
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\bin\Debug\net6.0\observer_and_strategy.deps.json
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\bin\Debug\net6.0\observer_and_strategy.runtimeconfig.json
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\bin\Debug\net6.0\observer_and_strategy.dll
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\bin\Debug\net6.0\observer_and_strategy.pdb
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\obj\Debug\net6.0\observer_and_strategy.csproj.AssemblyReference.cache
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\obj\Debug\net6.0\observer_and_strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\obj\Debug\net6.0\observer_and_strategy.AssemblyInfoInputs.cache
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\obj\Debug\net6.0\observer_and_strategy.AssemblyInfo.cs
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\obj\Debug\net6.0\observer_and_strategy.csproj.CoreCompileInputs.cache
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\obj\Debug\net6.0\observer_and_strategy.dll
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\obj\Debug\net6.0\refint\observer_and_strategy.dll
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\obj\Debug\net6.0\observer_and_strategy.pdb
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\obj\Debug\net6.0\observer_and_strategy.genruntimeconfig.cache
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\obj\Debug\net6.0\ref\observer_and_strategy.dll
