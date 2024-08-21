@@ -9,7 +9,8 @@ In this repository, you’ll find:
 Small console applications demonstrating different design patterns.
 
 ## 1) 📈🔔 Stock App Notifier
-Implemented using strategy and observer pattern
+Implementing the Strategy and Observer patterns, this app keeps you updated on stock price changes with customizable investment strategies. 📉📈
 
-
+## 2) 🎮🕹️ Game Manager
+This app uses the Singleton pattern to ensure there's only one game manager overseeing your games, and the Strategy pattern to handle different game strategies. Manage and strategize across various games with ease! 🏆🎲
 
