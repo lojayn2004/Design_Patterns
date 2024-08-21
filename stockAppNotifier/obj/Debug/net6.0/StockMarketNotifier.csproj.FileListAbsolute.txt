@@ -1,0 +1,15 @@
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\bin\Debug\net6.0\StockMarketNotifier.exe
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\bin\Debug\net6.0\StockMarketNotifier.deps.json
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\bin\Debug\net6.0\StockMarketNotifier.runtimeconfig.json
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\bin\Debug\net6.0\StockMarketNotifier.dll
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\bin\Debug\net6.0\StockMarketNotifier.pdb
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\obj\Debug\net6.0\StockMarketNotifier.csproj.AssemblyReference.cache
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\obj\Debug\net6.0\StockMarketNotifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\obj\Debug\net6.0\StockMarketNotifier.AssemblyInfoInputs.cache
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\obj\Debug\net6.0\StockMarketNotifier.AssemblyInfo.cs
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\obj\Debug\net6.0\StockMarketNotifier.csproj.CoreCompileInputs.cache
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\obj\Debug\net6.0\StockMarketNotifier.dll
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\obj\Debug\net6.0\refint\StockMarketNotifier.dll
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\obj\Debug\net6.0\StockMarketNotifier.pdb
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\obj\Debug\net6.0\StockMarketNotifier.genruntimeconfig.cache
+C:\Users\lojay\source\repos\Design_Patterns\observer_and_strategy\obj\Debug\net6.0\ref\StockMarketNotifier.dll

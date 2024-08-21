@@ -1,0 +1,15 @@
+C:\Users\lojay\source\repos\Design_Patterns\GameManager\obj\Debug\net6.0\GameManager.csproj.AssemblyReference.cache
+C:\Users\lojay\source\repos\Design_Patterns\GameManager\obj\Debug\net6.0\GameManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lojay\source\repos\Design_Patterns\GameManager\obj\Debug\net6.0\GameManager.AssemblyInfoInputs.cache
+C:\Users\lojay\source\repos\Design_Patterns\GameManager\obj\Debug\net6.0\GameManager.AssemblyInfo.cs
+C:\Users\lojay\source\repos\Design_Patterns\GameManager\obj\Debug\net6.0\GameManager.csproj.CoreCompileInputs.cache
+C:\Users\lojay\source\repos\Design_Patterns\GameManager\bin\Debug\net6.0\GameManager.exe
+C:\Users\lojay\source\repos\Design_Patterns\GameManager\bin\Debug\net6.0\GameManager.deps.json
+C:\Users\lojay\source\repos\Design_Patterns\GameManager\bin\Debug\net6.0\GameManager.runtimeconfig.json
+C:\Users\lojay\source\repos\Design_Patterns\GameManager\bin\Debug\net6.0\GameManager.dll
+C:\Users\lojay\source\repos\Design_Patterns\GameManager\bin\Debug\net6.0\GameManager.pdb
+C:\Users\lojay\source\repos\Design_Patterns\GameManager\obj\Debug\net6.0\GameManager.dll
+C:\Users\lojay\source\repos\Design_Patterns\GameManager\obj\Debug\net6.0\refint\GameManager.dll
+C:\Users\lojay\source\repos\Design_Patterns\GameManager\obj\Debug\net6.0\GameManager.pdb
+C:\Users\lojay\source\repos\Design_Patterns\GameManager\obj\Debug\net6.0\GameManager.genruntimeconfig.cache
+C:\Users\lojay\source\repos\Design_Patterns\GameManager\obj\Debug\net6.0\ref\GameManager.dll
