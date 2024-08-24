@@ -1,0 +1,15 @@
+C:\Users\lojay\source\repos\Design_Patterns\DocumentProcessingSystem\bin\Debug\net6.0\DocumentProcessingSystem.exe
+C:\Users\lojay\source\repos\Design_Patterns\DocumentProcessingSystem\bin\Debug\net6.0\DocumentProcessingSystem.deps.json
+C:\Users\lojay\source\repos\Design_Patterns\DocumentProcessingSystem\bin\Debug\net6.0\DocumentProcessingSystem.runtimeconfig.json
+C:\Users\lojay\source\repos\Design_Patterns\DocumentProcessingSystem\bin\Debug\net6.0\DocumentProcessingSystem.dll
+C:\Users\lojay\source\repos\Design_Patterns\DocumentProcessingSystem\bin\Debug\net6.0\DocumentProcessingSystem.pdb
+C:\Users\lojay\source\repos\Design_Patterns\DocumentProcessingSystem\obj\Debug\net6.0\DocumentProcessingSystem.csproj.AssemblyReference.cache
+C:\Users\lojay\source\repos\Design_Patterns\DocumentProcessingSystem\obj\Debug\net6.0\DocumentProcessingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lojay\source\repos\Design_Patterns\DocumentProcessingSystem\obj\Debug\net6.0\DocumentProcessingSystem.AssemblyInfoInputs.cache
+C:\Users\lojay\source\repos\Design_Patterns\DocumentProcessingSystem\obj\Debug\net6.0\DocumentProcessingSystem.AssemblyInfo.cs
+C:\Users\lojay\source\repos\Design_Patterns\DocumentProcessingSystem\obj\Debug\net6.0\DocumentProcessingSystem.csproj.CoreCompileInputs.cache
+C:\Users\lojay\source\repos\Design_Patterns\DocumentProcessingSystem\obj\Debug\net6.0\DocumentProcessingSystem.dll
+C:\Users\lojay\source\repos\Design_Patterns\DocumentProcessingSystem\obj\Debug\net6.0\refint\DocumentProcessingSystem.dll
+C:\Users\lojay\source\repos\Design_Patterns\DocumentProcessingSystem\obj\Debug\net6.0\DocumentProcessingSystem.pdb
+C:\Users\lojay\source\repos\Design_Patterns\DocumentProcessingSystem\obj\Debug\net6.0\DocumentProcessingSystem.genruntimeconfig.cache
+C:\Users\lojay\source\repos\Design_Patterns\DocumentProcessingSystem\obj\Debug\net6.0\ref\DocumentProcessingSystem.dll

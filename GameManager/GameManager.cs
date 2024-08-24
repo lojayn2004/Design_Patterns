@@ -23,8 +23,6 @@ namespace GameManagerApp
 
         public static GameManager GetGameManager()
         {
-            if(gameManager is null) 
-                gameManager = new GameManager();
             return gameManager;
         }
         public void RunGame()
