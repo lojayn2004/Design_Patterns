@@ -1,0 +1,15 @@
+C:\Users\lojay\source\repos\Design_Patterns\CompileAndDrinkCoffeeCorner\bin\Debug\net6.0\CompileAndDrinkCoffeeCorner.exe
+C:\Users\lojay\source\repos\Design_Patterns\CompileAndDrinkCoffeeCorner\bin\Debug\net6.0\CompileAndDrinkCoffeeCorner.deps.json
+C:\Users\lojay\source\repos\Design_Patterns\CompileAndDrinkCoffeeCorner\bin\Debug\net6.0\CompileAndDrinkCoffeeCorner.runtimeconfig.json
+C:\Users\lojay\source\repos\Design_Patterns\CompileAndDrinkCoffeeCorner\bin\Debug\net6.0\CompileAndDrinkCoffeeCorner.dll
+C:\Users\lojay\source\repos\Design_Patterns\CompileAndDrinkCoffeeCorner\bin\Debug\net6.0\CompileAndDrinkCoffeeCorner.pdb
+C:\Users\lojay\source\repos\Design_Patterns\CompileAndDrinkCoffeeCorner\obj\Debug\net6.0\CompileAndDrinkCoffeeCorner.csproj.AssemblyReference.cache
+C:\Users\lojay\source\repos\Design_Patterns\CompileAndDrinkCoffeeCorner\obj\Debug\net6.0\CompileAndDrinkCoffeeCorner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lojay\source\repos\Design_Patterns\CompileAndDrinkCoffeeCorner\obj\Debug\net6.0\CompileAndDrinkCoffeeCorner.AssemblyInfoInputs.cache
+C:\Users\lojay\source\repos\Design_Patterns\CompileAndDrinkCoffeeCorner\obj\Debug\net6.0\CompileAndDrinkCoffeeCorner.AssemblyInfo.cs
+C:\Users\lojay\source\repos\Design_Patterns\CompileAndDrinkCoffeeCorner\obj\Debug\net6.0\CompileAndDrinkCoffeeCorner.csproj.CoreCompileInputs.cache
+C:\Users\lojay\source\repos\Design_Patterns\CompileAndDrinkCoffeeCorner\obj\Debug\net6.0\CompileAndDrinkCoffeeCorner.dll
+C:\Users\lojay\source\repos\Design_Patterns\CompileAndDrinkCoffeeCorner\obj\Debug\net6.0\refint\CompileAndDrinkCoffeeCorner.dll
+C:\Users\lojay\source\repos\Design_Patterns\CompileAndDrinkCoffeeCorner\obj\Debug\net6.0\CompileAndDrinkCoffeeCorner.pdb
+C:\Users\lojay\source\repos\Design_Patterns\CompileAndDrinkCoffeeCorner\obj\Debug\net6.0\CompileAndDrinkCoffeeCorner.genruntimeconfig.cache
+C:\Users\lojay\source\repos\Design_Patterns\CompileAndDrinkCoffeeCorner\obj\Debug\net6.0\ref\CompileAndDrinkCoffeeCorner.dll

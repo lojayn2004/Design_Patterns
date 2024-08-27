@@ -33,7 +33,7 @@ namespace DocumentProcessingSystem
 
         public override void GenerateDocumnet()
         {
-            Console.WriteLine("Product Name                Price ");
+            Console.WriteLine("Product Name             Price ");
             decimal totalPrice = 0;
             foreach(Tuple<string, decimal> item in Items)
             {

@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockMarketNotifier", "obse
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameManager", "GameManager\GameManager.csproj", "{9BAA273C-580B-426D-8E7C-19522B4605BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentProcessingSystem", "DocumentProcessingSystem\DocumentProcessingSystem.csproj", "{9B381447-9242-4107-9702-6266C49837CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocumentProcessingSystem", "DocumentProcessingSystem\DocumentProcessingSystem.csproj", "{9B381447-9242-4107-9702-6266C49837CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompileAndDrinkCoffeeCorner", "CompileAndDrinkCoffeeCorner\CompileAndDrinkCoffeeCorner.csproj", "{0882E345-DD5F-446B-A01D-34734ED8ADDE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{9B381447-9242-4107-9702-6266C49837CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B381447-9242-4107-9702-6266C49837CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B381447-9242-4107-9702-6266C49837CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0882E345-DD5F-446B-A01D-34734ED8ADDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0882E345-DD5F-446B-A01D-34734ED8ADDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0882E345-DD5F-446B-A01D-34734ED8ADDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0882E345-DD5F-446B-A01D-34734ED8ADDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
