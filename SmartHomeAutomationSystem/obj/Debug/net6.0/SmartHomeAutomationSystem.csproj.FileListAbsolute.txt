@@ -1,0 +1,15 @@
+C:\Users\lojay\source\repos\Design_Patterns\SmartHomeAutomationSystem\bin\Debug\net6.0\SmartHomeAutomationSystem.exe
+C:\Users\lojay\source\repos\Design_Patterns\SmartHomeAutomationSystem\bin\Debug\net6.0\SmartHomeAutomationSystem.deps.json
+C:\Users\lojay\source\repos\Design_Patterns\SmartHomeAutomationSystem\bin\Debug\net6.0\SmartHomeAutomationSystem.runtimeconfig.json
+C:\Users\lojay\source\repos\Design_Patterns\SmartHomeAutomationSystem\bin\Debug\net6.0\SmartHomeAutomationSystem.dll
+C:\Users\lojay\source\repos\Design_Patterns\SmartHomeAutomationSystem\bin\Debug\net6.0\SmartHomeAutomationSystem.pdb
+C:\Users\lojay\source\repos\Design_Patterns\SmartHomeAutomationSystem\obj\Debug\net6.0\SmartHomeAutomationSystem.csproj.AssemblyReference.cache
+C:\Users\lojay\source\repos\Design_Patterns\SmartHomeAutomationSystem\obj\Debug\net6.0\SmartHomeAutomationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lojay\source\repos\Design_Patterns\SmartHomeAutomationSystem\obj\Debug\net6.0\SmartHomeAutomationSystem.AssemblyInfoInputs.cache
+C:\Users\lojay\source\repos\Design_Patterns\SmartHomeAutomationSystem\obj\Debug\net6.0\SmartHomeAutomationSystem.AssemblyInfo.cs
+C:\Users\lojay\source\repos\Design_Patterns\SmartHomeAutomationSystem\obj\Debug\net6.0\SmartHomeAutomationSystem.csproj.CoreCompileInputs.cache
+C:\Users\lojay\source\repos\Design_Patterns\SmartHomeAutomationSystem\obj\Debug\net6.0\SmartHomeAutomationSystem.dll
+C:\Users\lojay\source\repos\Design_Patterns\SmartHomeAutomationSystem\obj\Debug\net6.0\refint\SmartHomeAutomationSystem.dll
+C:\Users\lojay\source\repos\Design_Patterns\SmartHomeAutomationSystem\obj\Debug\net6.0\SmartHomeAutomationSystem.pdb
+C:\Users\lojay\source\repos\Design_Patterns\SmartHomeAutomationSystem\obj\Debug\net6.0\SmartHomeAutomationSystem.genruntimeconfig.cache
+C:\Users\lojay\source\repos\Design_Patterns\SmartHomeAutomationSystem\obj\Debug\net6.0\ref\SmartHomeAutomationSystem.dll

@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameManager", "GameManager\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocumentProcessingSystem", "DocumentProcessingSystem\DocumentProcessingSystem.csproj", "{9B381447-9242-4107-9702-6266C49837CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompileAndDrinkCoffeeCorner", "CompileAndDrinkCoffeeCorner\CompileAndDrinkCoffeeCorner.csproj", "{0882E345-DD5F-446B-A01D-34734ED8ADDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompileAndDrinkCoffeeCorner", "CompileAndDrinkCoffeeCorner\CompileAndDrinkCoffeeCorner.csproj", "{0882E345-DD5F-446B-A01D-34734ED8ADDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHomeAutomationSystem", "SmartHomeAutomationSystem\SmartHomeAutomationSystem.csproj", "{566B9213-ED03-422B-8007-7C7A4A2F7515}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{0882E345-DD5F-446B-A01D-34734ED8ADDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0882E345-DD5F-446B-A01D-34734ED8ADDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0882E345-DD5F-446B-A01D-34734ED8ADDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{566B9213-ED03-422B-8007-7C7A4A2F7515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{566B9213-ED03-422B-8007-7C7A4A2F7515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{566B9213-ED03-422B-8007-7C7A4A2F7515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{566B9213-ED03-422B-8007-7C7A4A2F7515}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
