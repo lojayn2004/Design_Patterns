@@ -29,4 +29,17 @@ A simple coffee shop simulation built to demonstrate the **Abstract Factory** an
 - **Template Method Pattern**: Defines the steps for preparing coffee and pastries, allowing subclasses to specify some of the steps without changing the overall algorithm.
 ### 🤔 Problem Faced
 While implementing the design patterns, I encountered a challenge with redundant method overrides. Initially, I created overrides for PrepareCoffee() and PreparePastry() in the concrete classes (Latte, Pie, Croissant) that simply called the base methods.
+## 5) 🏡 Home Automation Console App
+
+This project is a console application that simulates a smart home system, allowing users to control devices like bulbs and airconditioners, simple commands.
+
+ - **Strategy**: Different devices can operate in various modes, such as EcoMode, NormalMode, and AwayMode, to suit user preferences.
+ - **Command**: To handle device interactions, providing a clean and organized way to manage commands.
+
+### 🤔 Problem Faced: Modes were specific to each device type. Allowing unrelated modes to affect different devices led to potential confusion and unintended behaviors.
+
+To enhance the design of the home automation system, each device can inherit from a common interface, such as `IMode`. This would allow for the creation of specialized mode classes for each device type, such as:
+- **IBulbMode**: An interface specifically for bulb modes.
+- **AwayMode**, **EcoMode**, and **NormalMode**: Classes that implement the `IBulbMode` interface, defining the behavior for each mode.
+
 
